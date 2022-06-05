@@ -65,7 +65,7 @@ This library provides communications with the RPLIDAR through a serial object. V
 ## MCP4725 12-bit DAC 
 Download to: **&lt;ArduinoFolder&gt;\Projects\libraries\MCP4725**
 
-** Source** https://github.com/RobTillaart/MCP4725
+**Source** https://github.com/RobTillaart/MCP4725
 
 Rob Tillaart's library for the MCP4725 I2C DAC. Version tested is 0.3.3.
 
